@@ -10,9 +10,9 @@ const Header = () => {
   useEffect(() => {
     const texts = [
       "I'm Agnes Wendi",
-      "Am a Data Analyst",
+      "I'm a Data Analyst",
       "A Graduate Statistician",
-      "Technovation Mentor"
+      "A Technovation Mentor"
     ];
 
     const handleTyping = () => {
